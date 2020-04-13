@@ -11,13 +11,13 @@ import tweepy
 import json
 
 '''ive to write my authentication keys'''
-consumer_key= "jAPg5z6x0rwLVh5MsN8kwqL13"
+consumer_key= 
 
-consumer_secret = "osgxg44woM06z0JxaaLrzYaic5UZEgDglxGBZOOuJTrLeNKJQy"
+consumer_secret = 
 
-access_token ="284827529-2vFzx1DeskheeibMllHv1LoKZiTbvALlltVxawA2"
+access_token =
 
-acess_toke_secret ="kGw0JdHPiWJ7F6qSr6o4elyOoLo99auykQBdzQ7ZZrigW"
+acess_toke_secret =
 
 '''i create the authentication proces with the keys'''
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
